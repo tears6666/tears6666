@@ -17,5 +17,5 @@
 </p>
 </p>
 <p align="center">
-<a href="http://www.github.com/tears6666"><img src="https://github-readme-stats.vercel.app/api?username=tears6666&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="tears6666's GitHub stats" /></a>
+<a href="http://www.github.com/tears6666"><img src="https://github-readme-stats.vercel.app/api?username=tears6666&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="tears6666's GitHub stats" /></a>
 </p>
