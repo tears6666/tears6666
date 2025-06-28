@@ -16,3 +16,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a>
 </p>
 </p>
+<p align="center">
+<a href="http://www.github.com/tears6666"><img src="https://github-readme-stats.vercel.app/api?username=tears6666&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="tears6666's GitHub stats" /></a>
+</p>
