@@ -3,6 +3,9 @@
 </p>
 
 
-<a href="http://www.github.com/tears6666"><img src="https://github-readme-stats.vercel.app/api?username=tears6666&show_icons=true&hide=prs,issues,&count_private=true&title_color=f97316&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="tears6666's GitHub stats" /></a>
+<div align="center">
+  <a href="http://www.github.com/tears6666"><img src="https://github-readme-stats.vercel.app/api?username=tears6666&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="tears6666's GitHub stats" /></a>
 
-<a href="https://github.com/tears6666" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tears6666&langs_count=10&title_color=f97316&text_color=64748b&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/tears6666"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tears6666&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
+
