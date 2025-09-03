@@ -1,4 +1,4 @@
-<h1 align="center">tears6666 / frontend developer</h1>
+<h1 align="center">🪽tears6666 / frontend developer</h1>
 
 <p align="center">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
