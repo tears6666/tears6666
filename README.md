@@ -13,4 +13,9 @@
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
 </p>
 
-<a align="center" href="http://www.github.com/tears6666"><img src="https://github-readme-stats.vercel.app/api?username=tears6666&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tears6666's GitHub stats" /></a>
+<p align="center">
+<a href="http://www.github.com/tears6666"><img src="https://github-readme-stats.vercel.app/api?username=tears6666&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="tears6666's GitHub stats" /></a>
+</p>
+
+
+<a href="http://www.github.com/tears6666"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tears6666&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
